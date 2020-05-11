@@ -1,5 +1,7 @@
 ## JS `require`と`import`の違い
 
+[参考サイト](https://www.wakuwakubank.com/posts/466-javascript-module-import-export/)
+
 <img src="image.jpeg" alt="image" size=320>
 
 ### require
